@@ -10,7 +10,7 @@ HOST-SUFFIX,imdb.com,PROXY
 HOST-SUFFIX,tmdb.com,DIRECT
 HOST-SUFFIX,api.themoviedb.org,PROXY
 HOST-SUFFIX,image.tmdb.org,DIRECT
-HOST-SUFFIX,appcenter.ms,DIRECT
+HOST-SUFFIX,appcenter.ms,PROXY
 HOST-SUFFIX,opensubtitles.org,PROXY
 
 
@@ -44,6 +44,7 @@ HOST-SUFFIX,scalemonk.com,REJECT
 HOST-SUFFIX,crashlytics.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,app-measurement-cn.com,REJECT
+HOST-SUFFIX,admob.com,REJECT
 HOST-KEYWORD,ads,REJECT
 
 
