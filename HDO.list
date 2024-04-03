@@ -161,7 +161,7 @@ HOST-SUFFIX,jump1.net,DIRECT
 HOST-SUFFIX,keys4.fun,PROXY
 HOST,mbpapi.shegu.net,DIRECT
 HOST-SUFFIX,mcloud.to,PROXY
-HOST-SUFFIX,myfilestorage.xyz,PROXY
+HOST-SUFFIX,myfilestorage.xyz,DIRECT
 HOST,player.smashy.stream,DIRECT
 HOST-SUFFIX,pressplay.top,DIRECT
 HOST-SUFFIX,secretlink.xyz,DIRECT
