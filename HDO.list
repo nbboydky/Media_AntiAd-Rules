@@ -1,6 +1,6 @@
 # NAME: HDO APP 去广告+直连规则
 # AUTHOR:DKY
-# UPDATED: 2024-4-2 12:00:00
+# UPDATED: 2025-1-16 23:40:00
 
 #以下为正常运行必须规则
 HOST,api.themoviedb.org,PROXY
@@ -179,6 +179,6 @@ HOST,www.fembed.com,PROXY
 
 
 #以下为兜底规则
-HOST-KEYWORD,cn,DIRECT
+GEOIP,cn,DIRECT
 HOST-SUFFIX,qq.com,DIRECT
 FINAL,DIRECT
